@@ -1,3 +1,6 @@
+October 23, 2025
+
+
 What I know about the project:
 
 - This is Project 1 for CS4337: implement a prefix-notation calculator using Racket.
